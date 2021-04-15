@@ -1,10 +1,10 @@
 # Credit Card Default Predictions
 ## About
-Goal: To predict whether a person would default on their credit card payment based on salary, sex, and age.
+**Goal**: To predict whether a person would default on their credit card payment based on salary, sex, and age.
 * Used SVM and random forest machine learning models
 * Modeled data with heatmaps and PCA/t-SNE dimensionality reduction
 
-Awards: Capital One’s “Best Financial Hack” award at Hacklytics 2020
+**Awards**: Capital One’s “Best Financial Hack” award at Hacklytics 2020
 
 
 ## Dataset Variables
